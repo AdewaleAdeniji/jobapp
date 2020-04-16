@@ -1,30 +1,28 @@
 [
-		{"name":"Frontend Designer","company":"Oldspeake","date":"14th April,2020","description":"Knowledge of Git Design tools, for instance: Adobe XD, Illustrator, Photoshop, Sketch, Figma Craft CMS / Twig,Webpack / modern front-end tooling,React , Node.js","link":"https://weworkremotely.com/remote-jobs/oldspeake-frontend-designer"},
-		{"name":"Senior Frontend Engineer","company":"Shogun","date":"16th April,2020","description":"hogun, and we're on a mission to help people create the best eCommerce experiences in the world.  We were in the Winter 2018 batch of Y-Combinator, we just raised a Series A investment, we have over 10,000 active paying clients, and we're preparing to launch a new product in 2020 (you can read more in ).Our teams are fully distributed and global (check out our )! We have no office, so we are looking for team members that are comfortable with and motivated by the opportunity to work remotely. ",
-		 "skills":"Working knowledge of TypeScript (and JavaScript), Tests (Jest, React-Testing-Library etc) Working experience with frontend frameworks such as React , Proven pixel-perfect CSS skills,Real-world code we can review",
+		{"name":"Frontend Designer","company":"Oldspeake","date":"14th April,2020",
+		"description":"Knowledge of Git Design tools, for instance: Adobe XD, Illustrator, Photoshop, Sketch, Figma Craft CMS / Twig,Webpack / modern front-end tooling,React , Node.js","link":"https://weworkremotely.com/remote-jobs/oldspeake-frontend-designer"},
+		{"name":"Senior Frontend Engineer","company":"Shogun","date":"16th April,2020",
+		 "description":"Shogun, and we're on a mission to help people create the best eCommerce experiences in the world.  We were in the Winter 2018 batch of Y-Combinator, we just raised a Series A investment, we have over 10,000 active paying clients, and we're preparing to launch a new product in 2020 (you can read more in ).Our teams are fully distributed and global (check out our )! We have no office, so we are looking for team members that are comfortable with and motivated by the opportunity to work remotely. Working knowledge of TypeScript (and JavaScript), Tests (Jest, React-Testing-Library etc) Working experience with frontend frameworks such as React , Proven pixel-perfect CSS skills,Real-world code we can review",
 		 "link":"https://weworkremotely.com/remote-jobs/shogun-senior-frontend-engineer"},
 		{
 		"name":"Senior Frontend Engineer",
 		"company":"Fast",
 		"date":"23rd March,2020",
-		"description":"We are looking for a Senior Frontend engineer that has worked on software and tech solutions at scale. Come join an engineering team that is shaping a new, frictionless online purchasing experience",
-		"skills":"3+ years experience developing using React,Proficiency in JavaScript,Deep experience building websites as part of a technical team,Website or work samples",
+		"description":"We are looking for a Senior Frontend engineer that has worked on software and tech solutions at scale. Come join an engineering team that is shaping a new, frictionless online purchasing experience , 3+ years experience developing using React,Proficiency in JavaScript,Deep experience building websites as part of a technical team,Website or work samples",
 		"link":"https://jobs.lever.co/fast/eb75b498-8aa8-4410-b827-8d52e960b768/apply"
 		},
 	{
 		"name":"Front-end Developer - Remote",
 		"company":"PriceSenz",
 		"date":"16th April,2020",
-		"description":"PriceSenz is looking for a smart, self-motivated, mid-level remote Front-end developers interested in contract/fulltime positions.",
-		"skills":"Bachelor's degree or equivalent combination of education and experience,Desired 5+ years JavaScript front-end development with heavy emphasis in JavaScript (ES5 and/or ES6),HTML5 & CSS3 and modern JS frameworks (i.e. React Native, AngularJS, Vue, or other JavaScript frameworks),Deep understanding of RESTful APIs, database, and caching techniques,A strong grasp of computer science fundamentals, design patterns, data structure, and software engineering principles",
+		"description":"PriceSenz is looking for a smart, self-motivated, mid-level remote Front-end developers interested in contract/fulltime positions.Bachelor's degree or equivalent combination of education and experience,Desired 5+ years JavaScript front-end development with heavy emphasis in JavaScript (ES5 and/or ES6),HTML5 & CSS3 and modern JS frameworks (i.e. React Native, AngularJS, Vue, or other JavaScript frameworks),Deep understanding of RESTful APIs, database, and caching techniques,A strong grasp of computer science fundamentals, design patterns, data structure, and software engineering principles",
 		"link":"https://stackoverflow.com/jobs/382301/front-end-developer-remote-pricesenz?a=24d8xkNesOR2&so_medium=Talent&so_source=TalentApi"
 		},
 	{
 		"name":"Freelance React Developer – Remote, Full-time",
 		"company":"Toptal",
 		"date":"16th April,2020",
-		"description":"Freelance work is defining the careers of today’s developers in exciting new ways. If you’re passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. Toptal is an elite talent network for the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time",
-		"skills":"English language proficiency, 3+ years of professional experience ,Project management skills,A keen attention to detail",
+		"description":"Freelance work is defining the careers of today’s developers in exciting new ways. If you’re passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. Toptal is an elite talent network for the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. English language proficiency, 3+ years of professional experience ,Project management skills,A keen attention to detail",
 		"link":"https://weworkremotely.com/remote-jobs/toptal-freelance-react-developer-remote-full-time-1"
 	}
 ]
