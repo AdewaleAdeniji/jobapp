@@ -10,9 +10,9 @@ class HeaderBar extends Component {
 	    <div className="container">
 	      <Link className="navbar-brand" to="/">this.jobs</Link>
 	     	<ul className="links">
-	     		<li><Link to="/react"><i className="fab fa-react"></i> <span className="label">React </span></Link></li>
-	     		<li><Link to="/vuejs"><i className="fab fa-vuejs"></i> <span className="label">VueJs </span></Link></li>
-	     	<li><Link to="/angular"><i className="fab fa-angular"></i> <span className="label">Angular</span></Link></li>
+	     		<li><i className="fab fa-react"></i> <span className="label">React </span></li>
+	     		<li><i className="fab fa-vuejs"></i> <span className="label">VueJs </span></li>
+	     	<li><i className="fab fa-angular"></i> <span className="label">Angular</span></li>
 	     		
 	     	</ul>
 	      
