@@ -1,4 +1,13 @@
 [
+	
+		
+	{
+		"name":"Software Engineer, Frontend",
+		"company":"Smile",
+		"date":"30th June,2020",
+		"description":"3+ years of practical experience writing client-side JavaScript, <br> Solid knowledge of React , <br>Expertise building responsive layouts with CSS and HTML ,Experience building and debugging in a team development environment,Excellent communication skills,<br>Positive attitude, willingness to share with and learn from others",
+		"link":"https://smilesoftware.com/company/jobs/software-engineer-frontend/"
+	},
 		{"name":"Frontend Designer","company":"Oldspeake","date":"14th April,2020",
 		"description":"Knowledge of Git Design tools, for instance: Adobe XD, Illustrator, Photoshop, Sketch, Figma Craft CMS / Twig,Webpack / modern front-end tooling,React , Node.js","link":"https://weworkremotely.com/remote-jobs/oldspeake-frontend-designer"},
 		{"name":"Senior Frontend Engineer","company":"Shogun","date":"16th April,2020",
