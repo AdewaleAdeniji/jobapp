@@ -1,11 +1,17 @@
 [
 	
-		
+	{
+		"name":"Front End Developer",
+		"company":" IOVLABS",
+		"date":"30th June,2020",
+		"description":"CSS (SaaS, Less or any other pre processor will be a plus) ,ReactJS (exclusive),Redux,Node.js (will be a plus),Experience integrating frontend with external services calling APIs (like RESTful services),Jest or other testing frameworks",
+		"link":"https://smilesoftware.com/company/jobs/software-engineer-frontend/"
+	},
 	{
 		"name":"Software Engineer, Frontend",
 		"company":"Smile",
 		"date":"30th June,2020",
-		"description":"3+ years of practical experience writing client-side JavaScript, <br> Solid knowledge of React , <br>Expertise building responsive layouts with CSS and HTML ,Experience building and debugging in a team development environment,Excellent communication skills,<br>Positive attitude, willingness to share with and learn from others",
+		"description":"3+ years of practical experience writing client-side JavaScript,   Solid knowledge of React , Expertise building responsive layouts with CSS and HTML ,Experience building and debugging in a team development environment,Excellent communication skills,Positive attitude, willingness to share with and learn from others",
 		"link":"https://smilesoftware.com/company/jobs/software-engineer-frontend/"
 	},
 		{"name":"Frontend Designer","company":"Oldspeake","date":"14th April,2020",
