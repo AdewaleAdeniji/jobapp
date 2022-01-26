@@ -7,7 +7,7 @@ export default class Footer extends Component {
         <div className="col-md-12 text-center">
           <p className="mb-0">
             &copy; All rights reserved | Developed with
-            <i className="fa fa-heart" aria-hidden="true"></i> &nbsp; by
+            &nbsp;<i className="fa fa-heart" aria-hidden="true"></i> &nbsp; by &nbsp;
             <a
               href="https://devferanmi.netlify.app"
               target="_blank"
