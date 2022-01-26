@@ -12,9 +12,9 @@ class Intro extends Component{
   			<div className="row description js-fullheight align-items-center center-text justify-content-center">
   				<div className="col-md-8 text-center">
   					<div className="text">
-  						<h1>this.jobs</h1>
+  						<h1>Remotely Oracle</h1>
   						<h4 className="mb-5 remotedesc">
-  						Remote javascript jobs listing ....
+  							A listing of all valid remote nigerian jobs...
   						</h4>
   						
   					</div>

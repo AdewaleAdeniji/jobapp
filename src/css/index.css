@@ -131,3 +131,6 @@ code {
       font-weight: normal;
       font-style: normal;
     }
+    .row.loading.d-flex {
+      justify-content: center;
+  }

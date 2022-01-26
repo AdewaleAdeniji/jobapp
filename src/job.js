@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import {Link} from 'react-router-dom';
-
+import moment from 'moment';
 export default class Job extends Component {
 	state = {
 		link:'',
@@ -29,7 +29,7 @@ export default class Job extends Component {
 						   
 						  </div>
 						  <div className="card-footer text-muted">
-						    {this.props.date}
+						    {moment(this.props.date).fromNow()}
 						  </div>
 						  </Link>
 						</div>

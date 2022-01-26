@@ -8,7 +8,9 @@ class HeaderBar extends Component {
 		return (
 	<nav className="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark sticky-top fixed-top" id="ftco-navbar">
 	    <div className="container">
-	      <Link className="navbar-brand" to="/">this.jobs</Link>
+	      <Link className="navbar-brand" to="/">
+			  Remote Oracle
+		  </Link>
 	     	<ul className="links">
 	     		<li><i className="fab fa-react"></i> <span className="label">React </span></li>
 	     		<li><i className="fab fa-vuejs"></i> <span className="label">VueJs </span></li>

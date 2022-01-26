@@ -1,0 +1,32 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg725175" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata725181">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs725179"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-8a0c9d7c-2224-4f9d-b9cd-2c631479daa7">
+    <stop id="stop725156" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop725158" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-8a0c9d7c-2224-4f9d-b9cd-2c631479daa7">
+    <stop id="stop725161" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop725163" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop725165" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" transform="translate(0 0)" style="display: none;"></image>
+    <g id="logo-center" transform="translate(-401.02640625000004 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:'Archivo Narrow';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:400;font-size:72px;line-height:1;font-family:'Brandmark Dots 1 Color';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <g id="path725184" aria-label="R" transform="translate(0 313.804) translate(852.0528125000001 38.696) scale(1.25) translate(-465.0425 50.4)"> <path class="c1" d="M117.85791,90.84639c0-9.79199-6.69727-16.05664-16.99414-16.05664H85.3833 c-2.59277,0-4.75293,2.16016-4.75293,4.75195v40.89941c0,2.59277,2.16016,4.75293,4.75293,4.75293 c2.66406,0,4.82422-2.16016,4.82422-4.75293v-12.96094h10.44043l2.16016,3.45605c1.36816,2.23242,4.32031,2.88086,6.55273,1.44043 c4.39258-2.80859,0.86426-7.41699,0.86426-7.41699C115.19385,102.15205,117.85791,97.03975,117.85791,90.84639z M100.64795,99.19991H90.20752V84.07784h10.65625c4.96875,0,7.41699,2.95313,7.41699,7.34473 C108.28076,95.45479,106.33643,99.19991,100.64795,99.19991z" transform="translate(384.41213 -125.18975)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#eadca3" stroke="#eadca3"></path> <path class="c3" d="M114.61768,125.12178c-2.59277,0-4.75293-2.16016-4.75293-4.75195c0-2.66504,2.16016-4.8252,4.75293-4.8252 c2.66406,0,4.75195,2.16016,4.75195,4.8252C119.36963,122.96162,117.28174,125.12178,114.61768,125.12178z" transform="translate(384.41213 -125.18975)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a18046" stroke="#a18046"></path> </g>
+        <path id="path725186" style="font-style:normal;font-weight:400;font-size:72px;line-height:1;font-family:'Brandmark Dots 1 Color';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 562.60025,-25.272 c 0,-8.208 -3.744,-15.696 -10.224,-20.808 -2.088,-1.584 -5.112,-1.224 -6.696,0.864 -1.656,2.016 -1.296,5.04 0.792,6.696 4.176,3.24 6.552,7.992 6.552,13.248 0,9.36 -7.632,16.992 -16.992,16.992 -9.36,0 -16.92,-7.632 -16.92,-16.992 0,-5.256 2.376,-10.008 6.48,-13.248 2.088,-1.656 2.448,-4.68 0.864,-6.696 -1.656,-2.088 -4.68,-2.448 -6.696,-0.864 -6.48,5.112 -10.224,12.6 -10.224,20.808 0,14.688 11.88,26.568 26.496,26.568 14.616,0 26.568,-11.88 26.568,-26.568 z m -31.32,-21.6 c 0,2.592 2.16,4.752 4.752,4.752 2.664,0 4.824,-2.16 4.824,-4.752 0,-2.664 -2.16,-4.824 -4.824,-4.824 -2.592,0 -4.752,2.16 -4.752,4.824 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#c6ae75" stroke="#c6ae75" transform="translate(0 313.804) translate(907.6700000000001 37.07599999999999) scale(1.25) translate(-509.53625 51.696)"></path>
+       </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>

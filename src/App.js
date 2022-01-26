@@ -5,7 +5,7 @@ import Header from './header';
 
 import Jobs from './jobs';
 import Footer from './footer';
-import {BrowserRouter,Route,HashRouter} from 'react-router-dom';
+import {BrowserRouter,Route} from 'react-router-dom';
 import Jreact from './react.js';
 import Vue from './vue.js';
 import Angular from './angular.js';
@@ -19,7 +19,7 @@ class App extends Component{
   render(){
     return (
       
-        <HashRouter>
+        <BrowserRouter>
         <Header/>
         
         <Route exact path="/" component={Jobs}/>
@@ -28,7 +28,7 @@ class App extends Component{
         <Route path="/angular" component={Angular}/>
         <Route path="/jobs/:jobid" component={Desc}/>
         <Footer/>
-        </HashRouter>
+        </BrowserRouter>
       )
   }
 }
